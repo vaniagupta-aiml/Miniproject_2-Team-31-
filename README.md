@@ -61,7 +61,7 @@ The following technologies and tools are used in this project:
 ## 5. System Architecture
 
 <p align="center">
-  <img src="images/mini.png" width="600">
+  <img src="mini.png" width="600">
 </p>
 
 
