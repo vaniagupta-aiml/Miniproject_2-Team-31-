@@ -123,7 +123,7 @@ export default function Detect() {
 
   const handleSubmit = async () => {
     try {
-      const response = await fetch('/speech-to-sign', {
+      const response = await fetch('https://sign-language-backend-o5ml.onrender.com/speech-to-sign', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ text: inputText })
