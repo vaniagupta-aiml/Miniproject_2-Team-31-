@@ -1,0 +1,18 @@
+{
+  "hello": {
+    "keywords": ["hello", "hi", "hey", "greetings"],
+    "gesture": "Open palm facing camera to say hello"
+  },
+  "bye-bye": {
+    "keywords": ["bye", "goodbye", "bye-bye", "see you", "farewell"],
+    "gesture": "Open palm facing camera while moving hand left or right"
+  },
+  "thank you": {
+    "keywords": ["thank you", "thanks", "thank u", "grateful"],
+    "gesture": "Index and middle fingers extended together to say thank you"
+  },
+  "sorry": {
+    "keywords": ["sorry", "apologize", "my bad", "excuse me"],
+    "gesture": "Closed fist to express sorry"
+  }
+}
